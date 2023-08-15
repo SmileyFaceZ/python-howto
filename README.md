@@ -1,2 +1,3 @@
 ## Python How-To Examples
-Kantaphat Phaphui
+by Kantaphat Phaphui
+* [Self-Referencing Type Hints](self-referencing-hints.md)
